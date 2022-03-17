@@ -1,1 +1,1 @@
-My second readme
+This is my fourth day of learning to code on github. it has been an amazing journey filled with challenging experience. However, I came this far through the support given by the ALX team, materials and colleagues. I look forward to a more rewarding day ahead.
